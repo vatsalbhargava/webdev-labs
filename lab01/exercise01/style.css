@@ -4,8 +4,20 @@ body * {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 /*
 Add some style blocks below this line to style the card.
 */
+
+img {
+    max-height: 200px;
+    width: auto;
+    margin-left: -10px;
+}
+
+p {
+    width: 200px;
+    margin-left: 10px;
+}
